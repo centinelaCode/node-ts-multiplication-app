@@ -8,12 +8,12 @@ npm install
 ```
 
 2. Ejecutar la App
-A. Ejecutar la app (mode development)
+Ejecutar la app (mode development)
 ``` 
 npm run dev:nodemon
 ```
 
-B. Ejecutar la app (mode wit flags)
+Ejecutar la app (mode wit flags)
 ``` 
 npm run dev
 ```
