@@ -33,7 +33,7 @@ describe('CreateTableUseCase', () => {
     const table = createTable.execute( options )
     const rows = table.split('\n').length
 
-    console.log(table)
+    // console.log(table)
 
     expect(table).toContain('3 x 1 = 3')
     expect(table).toContain('3 x 10 = 30')
